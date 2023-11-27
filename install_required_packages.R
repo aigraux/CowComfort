@@ -1,0 +1,13 @@
+install.packages(
+  c("bslib",
+    "data.table",
+    "dplyr",
+    "ggplot2",
+    "ggpubr",
+    "RColorBrewer",
+    "sf",
+    "shiny",
+    "tidyr",
+    "tools"
+  )
+)

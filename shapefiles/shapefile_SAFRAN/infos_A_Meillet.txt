@@ -1,0 +1,9 @@
+Bonjour Anne-Isabelle,
+Tu trouveras ci-joint :
+•	le shapefile des mailles safran (meteo_infosol.zip).  le numéro de maille se trouve dans le champ GRILLE_S_1
+•	le shapefile des polygones d'UCS (bdgsf_shapefile).
+Ces deux couches - fournies par infosol - sont dans la même projection (NTF_France_II_degrees), attention donc si jamais tu veux les croiser avec une couche en lambert 93.
+
+Bonne journée,
+
+Anne
